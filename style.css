@@ -1,0 +1,24 @@
+* {
+    background: #f5f5dd;
+}
+
+.kwadrat {
+    background: black;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#s2 {
+    opacity: 75%;
+}
+
+#s3 {
+    opacity: 50%;
+}
+
+#s4 {
+    opacity: 25%;
+}
